@@ -1,5 +1,8 @@
 package com.pnk.model;
 
-public class Student {
+ class student {
+	public static void main(String[] args) {
+		//hi
+	}
 
 }
